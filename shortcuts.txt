@@ -26,7 +26,7 @@ Shift + Arrows ---> Select Text
 Ctrl + Shift + Arrows ---> Select Words
 F6 ---> Spell Check
 
-Browser / Chrome:---------------------------
+Browser / Chrome:------------------------------------------------------------------------
 
 F12      ---> Developer Tools
 Ctrl + R ---> Reload current page
@@ -34,7 +34,7 @@ Ctrl + L ---> Edit Link in address bar
 Ctrl + E ---> Search using address bar
 Ctrl + Shift + N ---> Open Incognito Mode
 
-Sublime Text:-------------------------------
+Sublime Text:----------------------------------------------------------------------------
 
 F11              ---> Fullscreen Toggle
 Ctrl + K + B     ---> Show / Hide sidebar
@@ -46,7 +46,7 @@ ctrl + Shift + F ---> Find in all files in a folder
 Ctrl + Alt + Up/Down Arrow   ---> Multi cursor
 Ctrl + Shift + Up/Down Arrow ---> Move line / selected lines
 
-MS Word:------------------------------------
+MS Word:---------------------------------------------------------------------------------
 
 Ctrl + Shift + > ---> Increase Font Size
 Ctrl + Shift + < ---> Decrease Font Size
