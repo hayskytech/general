@@ -1,2 +1,52 @@
+Ctrl + A ---> Select All
+Ctrl + B ---> Bold
+Ctrl + F ---> Find
+Ctrl + H ---> Replace
 Ctrl + C ---> Copy
-Ctrl + V ---> Paste 
+Ctrl + X ---> Cut
+Ctrl + V ---> Paste
+Ctrl + P ---> Print
+Ctrl + S ---> Save
+Ctrl + Shift + S ---> Save As
+F12      ---> Save As
+Ctrl + T ---> Open New Tab
+Ctrl + N ---> Open New Window
+Ctrl + O ---> Open File
+Ctrl + + ---> Zoom in
+Ctrl + - ---> Zoom out
+Ctrl + Tab         ---> Switch Tabs Forward
+Ctrl + Shift + Tab ---> Switch Tabs Backward
+Alt + Tab          ---> Switch Windows
+Alt + Shift + Tab  ---> Switch Windows
+Home ---> Move cursor to Line Start
+End  ---> Move cursor to Line End
+Ctrl + Home ---> Move cursor to File Start
+Ctrl + End  ---> Move cursor to File End
+Shift + Arrows ---> Select Text
+Ctrl + Shift + Arrows ---> Select Words
+F6 ---> Spell Check
+
+Browser / Chrome:---------------------------
+
+F12      ---> Developer Tools
+Ctrl + R ---> Reload current page
+Ctrl + L ---> Edit Link in address bar
+Ctrl + E ---> Search using address bar
+Ctrl + Shift + N ---> Open Incognito Mode
+
+Sublime Text:-------------------------------
+
+F11              ---> Fullscreen Toggle
+Ctrl + K + B     ---> Show / Hide sidebar
+Ctrl + K + U     ---> Change to uppercase
+Ctrl + K + L     ---> Change to lowercase
+Ctrl + D         ---> Select similar text
+Ctrl + Shift + D ---> Duplicate line / selected text
+ctrl + Shift + F ---> Find in all files in a folder
+Ctrl + Alt + Up/Down Arrow   ---> Multi cursor
+Ctrl + Shift + Up/Down Arrow ---> Move line / selected lines
+
+MS Word:------------------------------------
+
+Ctrl + Shift + > ---> Increase Font Size
+Ctrl + Shift + < ---> Decrease Font Size
